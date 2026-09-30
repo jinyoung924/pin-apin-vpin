@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+.venv/
+.claude/
+
+# 데이터 파일은 저장소에 올리지 않음
+*.parquet
+*.sas7bdat
+*.pkl

@@ -1,0 +1,26 @@
+<kor> 
+pin  완료
+vpin 완료
+apin 완료
+
+<us>
+pin  완료
+vpin 완료
+apin 0325 13:00 ~
+
+<uk>
+pin  0325 완료
+vpin 0325 완료
+apin 0328 완
+
+<jp>
+pin 0327 완료
+vpin 0328 완료
+
+<hk>
+
+<gr>
+
+<fr>
+
+<ca>

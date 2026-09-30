@@ -1,0 +1,15 @@
+D:\
+ └── vpin_project_parquet\           (새로 생성된 파켓 전용 최상위 폴더)
+      ├── KOR_2010\
+      │    ├── kor_201001.parquet    (원본 kor_201001.sas7bdat의 변환본)
+      │    ├── kor_201002.parquet
+      │    └── kor_201003.parquet
+      ├── KOR_2011\
+      │    ├── kor_201101.parquet
+      │    ├── kor_201102.parquet
+      │    └── kor_201103.parquet
+      └── ... (2021년 폴더까지 동일하게 생성됨)
+
+
+      
+.\.venv\Scripts\activate 
